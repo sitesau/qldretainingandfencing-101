@@ -1,0 +1,22 @@
+{
+  "wheel_id": 520,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-101",
+  "project": "retaining-wall-builders-brisbane-diy-vs-professional-550b12616d",
+  "parent_t1_ref": "qldretainingandfencing-150",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall builders brisbane diy vs professional",
+  "intended_url": "https://sitesau.github.io/qldretainingandfencing-101/",
+  "tier": "T2",
+  "writeback_nonce": "1b8f7e60f8b8c549",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-brisbane-e80aee2a6e3cbea0a4cdcf94ea5/",
+      "anchor": "more on retaining wall builders brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
